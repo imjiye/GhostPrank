@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 431c6a6963a8eea45ae8095b42946537
+  - enabled: 1
+    path: Assets/Scenes/SelectScene.unity
+    guid: 2ceb0927d1f168744b9d61c3436f7f3a
+  - enabled: 1
+    path: Assets/Scenes/PrologueScene K.unity
+    guid: 840f0a3e7e2348f44888ce731cd2f274
+  - enabled: 1
+    path: Assets/Scenes/RuleScene K.unity
+    guid: 84eaf68fc65ae34479aeb7998b46726d
+  - enabled: 1
+    path: Assets/Scenes/SettingScene K.unity
+    guid: 0bc9a982269e4024dbaf6ef3ba2b4238
+  - enabled: 1
+    path: Assets/Scenes/PrologueScene E.unity
+    guid: a4b8247cfebe48a46b06c5e54ab3ae3c
+  - enabled: 1
+    path: Assets/Scenes/RuleScene E.unity
+    guid: 326ea19f208f01749a09dadd44e37a5a
+  - enabled: 1
+    path: Assets/Scenes/SettingScene E.unity
+    guid: 2e7c815204d13f94c9db462da55c7cd1
+  - enabled: 1
+    path: Assets/Scenes/EasyScene.unity
+    guid: 20beb944a81605f43889d0c3b5b2d405
+  - enabled: 1
+    path: Assets/Scenes/NormalScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/HardScene.unity
+    guid: e0b2bb37d2afc7c44b408ca618df1fd9
+  m_configObjects: {}
